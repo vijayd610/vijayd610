@@ -7,7 +7,6 @@ Hi 👋 My name is Vijay
 👋 Welcome to my profile! I'm vijay, a battle-tested software engineer with a passion for building robust, scalable, and elegant solutions using Go.
 
 * 🌍  I'm based in Atlanta
-* ✉️  You can contact me at [vijayd610@gmail.com](mailto:vijayd610@gmail.com)
 * 🧠  I'm learning Python, Machine Learning
 * 🤝  I'm open to collaborating on Projects
 * ⚡  🏴‍☠️ \*\*Pirates Unite!\*\* - Just like the Straw Hat Pirates in One Piece, I'm on a never-ending journey to discover the treasures of coding and technology.
