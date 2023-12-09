@@ -1,10 +1,10 @@
-Hi 👋 My name is Vijay
+Hi 👋 My name is Venkata
 ======================
 
 🚀 Senior Full-Stack Golang Developer 🌐
 ----------------------------------------
 
-👋 Welcome to my profile! I'm vijay, a battle-tested software engineer with a passion for building robust, scalable, and elegant solutions using Go.
+👋 Welcome to my profile! I'm Venkata, a battle-tested software engineer with a passion for building robust, scalable, and elegant solutions using Go.
 
 * 🌍  I'm based in Atlanta
 * 🧠  I'm learning Python, Machine Learning
